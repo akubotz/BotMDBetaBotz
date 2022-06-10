@@ -6,7 +6,7 @@ global.thum = "https://telegra.ph/file/7188012d573871aaf4fa0.jpg"
 global.log0 = fs.readFileSync("./media/fenzo.jpg")
 global.thumb = fs.readFileSync("./media/fenzo.jpg")
 global.err4r = "https://telegra.ph/file/7188012d573871aaf4fa0.jpg"
-global.owner = ['6282279915237','6283160624440','6285789004732']
+global.owner = ['6285232604817','6285232604817','6285771052661']
 global.lolhuman = "RelzzAPIs"
 global.rkyt = []
 global.banUser = ['6281366679021@s.whatsapp.net']
@@ -15,22 +15,22 @@ global.wlcm = []
 global.gcrevoke = ['19054091487-1424650263@g.us']
 global.packname = "© Lexxy Official"
 global.packname2 = "LordLexxy😎"
-global.author = "LexxyDev"
+global.author = "KokoRey"
 global.sessionName = "session"
-global.namebot = "Kagura Botz"
+global.namebot = "KokoRey Botz"
 global.linkgrupss = "https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: '*Success!*',
-    admin: '*Fitur Khusus Admin Group!*',
-    botAdmin: '*Bot Harus Menjadi Admin Terlebih Dahulu!*',
-    owner: '*Fitur Khusus Owner Bot*',
+    admin: '*LU ITU BUKAN ADMIN GBLOK!*',
+    botAdmin: '*GUA BUKAN ADMIN NGNTD!*',
+    owner: '*Fitur Khusus MAJIKAN Bot*',
     group: '*Fitur Digunakan Hanya Untuk Group!*',
     private: '*Fitur Digunakan Hanya Untuk Private Chat!*',
     bot: '*Fitur Khusus Pengguna Nomor Bot*',
-    wait: '*Silahkan Menunggu!*',
-    linkm: 'Linknya Mana Kak?',
+    wait: '*SABAR YA ANJENG!*',
+    linkm: 'Linknya Mana TOLOL?',
     ban: '*Kamu telah dibanned oleh owner, Jika ingin di unbanned chat owner*'
 }
 global.limitawal = {
