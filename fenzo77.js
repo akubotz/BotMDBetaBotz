@@ -1145,13 +1145,13 @@ Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 > Role User : *${role}*
 ────────────
 ❏ *Info Creator*
-> Name : *Lexxy Official*
-> Nomor : *082279915237*
+> Name : *KoKoRey Official*
+> Nomor : *6285232604817*
 > Umur : *18+*
 > Region : *Indonesia 🇲🇨*
 > Hobyy : *Coding*
-> Made in : *Palembang*
-> Nama Asli : *Pebri Pratama*
+> Made in : *Bogor*
+> Nama Asli : *Private Ytta*
 ────────────
 ❏ *Info Server*
 > Tanggal Server : *${jangwak}*
@@ -1193,8 +1193,8 @@ case 'hanzo': case 'prp': case 'inventori': case 'profile':{
      teksehmazeh += `*Level* : ${getLevelingLevel(m.sender)}`
      let butRun = [
         	{ urlButton: { displayText: `Group WhatsApp`, url : `https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG` } },
-        	{ urlButton: { displayText: `Instagram`, url : `https://Instagram.com/Lexxy24` } },
-            { urlButton: { displayText: `☎️Contact Me`, url: `+62 857-8900-4732` } },
+        	{ urlButton: { displayText: `Instagram`, url : `https://Instagram.com/callme_rey1921` } },
+            { urlButton: { displayText: `☎️Contact Me`, url: `+6285232604817` } },
             { quickReplyButton: { displayText: `🏧 leaderboard`, id: 'leaderboard'} }
         	]
         	mans.sendMessage(m.chat, { caption: teksehmazeh, document: { url: 'https://fatiharridho.my.id/database/islam/juz-amma-arab-latin-indonesia.pptx' }, mimetype: 'application/vnd.openxmlformats-officedocument.presentationml.presentation', fileName: '© LexxyBotMD', templateButtons: butRun, footer: `ingin Berpetualang Lagi`, mentions: [m.sender] })
@@ -1205,12 +1205,12 @@ case 'list': case 'menu': case 'help': case '?': {
                 let kontol = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/Lexxy24/KaguraMD'
+                                    url: 'https://https://instagram.com/callme_rey1921'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 822-7991-5237'
+                                    phoneNumber: '+6285232604817'
                                 }
                             },{
                                 quickReplyButton: {
@@ -1225,10 +1225,10 @@ case 'list': case 'menu': case 'help': case '?': {
                             }, {
                                 quickReplyButton: {
                                     displayText: 'Info Profile',
-                                    id: 'hanzo'
+                                    id: 'KokoRey'
                                 }
                             }]
-mans.send5ButImg(m.chat, listmn, `© 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 𝘓𝘦𝘹𝘹𝘺 𝘖𝘧𝘧𝘪𝘤𝘪𝘢𝘭`, global.thumb, kontol)
+mans.send5ButImg(m.chat, listmn, `® 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 KokoRey 𝘖𝘧𝘧𝘪𝘤𝘪𝘢𝘭`, global.thumb, kontol)
 }
         	break
 case 'grupbot':
@@ -2576,12 +2576,12 @@ if (!args.join(" ")) return m.reply(`Text mana?\n\nExample : ${prefix + command}
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'SCRIPT',
-                                    url: 'https://github.com/Lexxy24/KaguraMD'
+                                    url: 'https://instagram.com/callme_rey1921'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'OWNER',
-                                    phoneNumber: ' +62 822-7991-5237'
+                                    phoneNumber: ' +6285232604817'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2596,7 +2596,7 @@ if (!args.join(" ")) return m.reply(`Text mana?\n\nExample : ${prefix + command}
                             }, {
                                 quickReplyButton: {
                                     displayText: 'PROFILE',
-                                    id: 'hanzo'
+                                    id: 'KokoRey'
                                 }
                             }]
                       let txt = `「 Broadcast Bot 」\n\n${text}`
@@ -3065,10 +3065,10 @@ m.reply(`*BOT ON 24 JAM & BISA BUAT PRICELIST*
 ├  DAN RATUSAN FITUR LAINYA
 ╰────
 ╭─[ *MINAT CHAT* ]
-├  🪀 wa.me/6282279915237?text=sewa+bot
+├  🪀 wa.me/6285232604817?text=sewa+bot
 ╰────
 ╭─[ *TES BOT? CHAT NOMER DI BAWAH* ]
-├ Wa.me/6285750758067
+├ Wa.me/6285232604817
 ╰────
 ╭─[ *PAYMENT* ]
 ├  GOPAY
@@ -3097,7 +3097,7 @@ m.reply(`*BOT ON 24 JAM & BISA BUAT PRICELIST*
 │    DLL DI GANTI JADI TERSERAH LU
 ╰────
 ╭─[ *MINAT CHAT* ]
-├  🪀 wa.me/6282279915237?text=jadi+bot
+├  🪀 wa.me/6285232604817?text=jadi+bot
 ╰────
 
 
@@ -3113,7 +3113,7 @@ m.reply(`*BOT ON 24 JAM & BISA BUAT PRICELIST*
 ├  BISA OPEN MURID 
 ╰────
 ╭─[ *MINAT CHAT* ]
-├  🪀 wa.me/6282279915237?text=join+murid+bot
+├  🪀 wa.me/6285232604817?text=join+murid+bot
 ╰────`)
 break
 case 'antilink': {
@@ -3468,11 +3468,11 @@ await mans.updateProfilePicture(m.chat, { url: media }).catch((err) => fs.unlink
 m.reply(mess.success)
 }
 break
-case 'tagall': {
+case 't': {
 if (isBan) return m.reply(mess.ban)
 if (!m.isGroup) return m.reply(mess.group)
 if (!isAdmins && !isCreator) return m.reply(mess.admin)
-let teks = `══✪〘 *👥 Tag All* 〙✪══
+let teks = `══✪〘 *👥 Tag All By ® KoKoRey* 〙✪══
  
  ➲ *Pesan : ${args.join(" ") ? args.join(" ") : 'kosong'}*\n\n`
 for (let mem of participants) {
@@ -3481,7 +3481,7 @@ teks += `⭔ @${mem.id.split('@')[0]}\n`
 mans.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, { quoted: m })
 }
 break
-case 'hidetag': {
+case 'h': {
 if (isBan) return m.reply(mess.ban)
 if (!m.isGroup) return m.reply(mess.group)
 if (!isAdmins && !isCreator) return m.reply(mess.admin)
@@ -3597,8 +3597,8 @@ let buttons = [
 let buttonMessage = {
 image: log0,
 jpegThumbnail: thum,
-caption: `*「 Lol Lexxy+ 」*\n\nChange Group Setting, Select Open Or Close`,
-footer: "© Lol Lexxy+",
+caption: `*「 Lol KoKoRey+ 」*\n\nChange Group Setting, Select Open Or Close`,
+footer: "© Lol KoKoRey+",
 buttons: buttons,
 headerType: 4
 }
@@ -3606,7 +3606,7 @@ mans.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
 }
 break
-case 'promote': {
+case 'admin': {
 if (isBan) return m.reply(mess.ban)
 if (!m.isGroup) return m.reply(mess.group)
 if (!isBotAdmins) return m.reply(mess.botAdmin)
@@ -3615,7 +3615,7 @@ let users = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender :
 await mans.groupParticipantsUpdate(m.chat, [users], 'promote').then((res) => m.reply(jsonformat(res))).catch((err) => m.reply(jsonformat(err)))
 }
 break
-case 'demote': {
+case 'babu': {
 if (isBan) return m.reply(mess.ban)
 if (!m.isGroup) return m.reply(mess.group)
 if (!isBotAdmins) return m.reply(mess.botAdmin)
